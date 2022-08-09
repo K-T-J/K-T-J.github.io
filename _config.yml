@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "코린이 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "KimTaeJun"
+name                     : ""
 url                      : "https://K-T-J.github.io"
 description              : ""
 baseurl                  : # the subpath of your site, e.g. "/blog"
